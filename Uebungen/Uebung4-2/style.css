@@ -1,0 +1,60 @@
+.container { 
+    height:100vh; 
+    display: grid; 
+    grid-template-rows: 150px 350px 150px 150px; 
+    grid-template-columns: 25% 25% 25% 12.5% 12.5%; 
+  } 
+
+fuchsia { 
+    background:fuchsia; 
+    grid-column:1 / 2; 
+    grid-row:1 / 4;  
+  } 
+
+salmon { 
+    background:salmon; 
+    grid-column:2 / 5; 
+    grid-row:1 / 1;  
+    }
+
+darkviolet { 
+    background:darkviolet; 
+    grid-column:5 / 6; 
+    grid-row:1 / 1; 
+  } 
+
+darkgreen { 
+    background:darkgreen; 
+    grid-column: 2 / 3;  
+    grid-row:2 / 2;  
+  }
+
+burlywood { 
+    background:burlywood; 
+    grid-column: 3 / 4;  
+    grid-row:2 / 2;  
+  }
+
+slateblue { 
+    background:slateblue; 
+    grid-column: 4 / 6;  
+    grid-row:2 / 4;  
+  }
+
+greenyellow { 
+    background:greenyellow; 
+    grid-column: 2 / 4;  
+    grid-row:3 / 3;  
+  }
+
+peru { 
+    background:peru; 
+    grid-column: 1 / 3;  
+    grid-row:4 / 4;  
+  }
+
+navajowhite { 
+    background:navajowhite; 
+    grid-column: 3 / 6;  
+    grid-row:4 / 4;  
+  }
