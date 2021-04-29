@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Schriftname;
+    src: url(font/IndieFlower-Regular.ttf);
+  }
+
+.font {
+  font-family: "Schriftname", "Times New Roman", Times, serif;
+}

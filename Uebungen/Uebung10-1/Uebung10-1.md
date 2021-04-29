@@ -23,12 +23,8 @@ Die Klasse wird von der Lehrperson in Gruppen aufgeteilt. Jede Gruppe bekommt ei
 Erstellen Sie eine kurze Präsentation über diese Lizenz. Fokussieren Sie Sich auf folgende Fragen:
 
 - Was darf ich mit dem Source Code machen und was nicht?
-    -
 - Muss ich erwähnen dass ich diesen Source Code in meiner Software verwende?
-    -
 - Wie ist die Haltung der Lizenz gegenüber kommerziellen Projekten?
-    -
 - Gibt die Lizenzen Einschränkungen vor, wenn ich meinen Code unter anderen Lizenzen veröffentlichen möchte?
-    -
 
 > Laden Sie die Präsentation als PDF oder Bilder in Ihr git Repository als Abgabe dieses Auftrags.
