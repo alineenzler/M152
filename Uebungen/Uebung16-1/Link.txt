@@ -1,1 +1,10 @@
 https://xd.adobe.com/view/7a05c08b-ac93-4e61-a604-4d96047c2145-2f56/
+
+Colors:
+    Background: #1F1F1F
+    PlaybackstatusBar: #2E2E2E 
+    TimeBar: #ADADAD
+    Cyan: #00EEFF
+    TitleBar: #000000 30% Opacity
+    Text: #FFFFFF
+    Undertitle: #BFBDBD
