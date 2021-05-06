@@ -1,0 +1,33 @@
+1. Gesetz der Figur-Trennung
+	Logos
+	Unterschied Bild/Form
+
+2. Gesetz der Symmetrie
+	Anführungs- Schlusszeichen -> ""
+
+3. Gesetz der Einfachheit (gute Form)
+	Zu viel Detail, kann nach einiger Zeit verwirren.
+	Bsp.: Einfacher Button, Einfaches NavMenu
+
+4. Gesetz der Nähe
+	Gruppierungen im Code (bsp.: Ordnerstruktur)
+	Gruppierungen, welche Themen ähnlich sind und in ein NavManu Tab gehören.
+
+5. Gesetz der Kontinuität (gute Fortsetzung)
+	Eine gute Struktur wo welcher Text steht.
+	Bsp.: NavMenu meisten oben, Text folgt von links nach rechts, ...
+
+6. Gesetz der Ähnlichkeit
+	Buttons haben ein einzigartiges Design für den Wiedererkennungswert.
+
+7. Gesetz der Prägnanz
+	Links in einem Text sind unterstrichen und manchmal auch in einer anderen Farbe. (Blau)
+
+8. Gesetz der Geschlossenheit
+	Alles hängt zusammen und ist "Geschlossen". (Texte/Inhalte)
+
+9. Gesetz der Verbundenheit
+	Alle Texte welche Zusammengehören, sind auf der selben Seite und somit praktisch "verbunden".
+
+10. Gesetz des gemeinsamen Schicksals
+	Swipegesten. Das nächste Bild ist Rechts. Das letzte Links.
